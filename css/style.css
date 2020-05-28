@@ -1,3 +1,28 @@
-h1 {
-  color: salmon;
+body {
+  background-color: #d6d6d6;
+}
+
+h2,
+p {
+  color: #474747;
+}
+button {
+  padding: 20px;
+  width: 375px;
+  position: relative;
+  top: 20px;
+  border-radius: 3px;
+}
+
+.city-img {
+  position: relative;
+  color: white;
+  font-size: 30px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
