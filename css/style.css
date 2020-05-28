@@ -12,6 +12,7 @@ button {
   position: relative;
   top: 20px;
   border-radius: 3px;
+  color: #474747;
 }
 
 .city-img {
